@@ -1,12 +1,18 @@
-.h1 {
-    text-align: center;
+
+html, body {
+  height: 100%;
 }
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #2c323d;
-    text-align: center;
-    opacity: 50%;
- }
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+body {
+  background: #007bff;
+  background: linear-gradient(to left, #d6d6d6, #51b9ff);
+}
