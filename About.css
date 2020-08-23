@@ -1,5 +1,4 @@
-
-html, body {
+body {
   height: 100%;
 }
 
@@ -9,10 +8,11 @@ html, body {
 
 #sticky-footer {
   flex-shrink: none;
+  opacity: 40%;
 }
 
 /* Other Classes for Page Styling */
 body {
-  background: #007bff;
+  background: #087fff;
   background: linear-gradient(to left, #d6d6d6, #51b9ff);
 }
