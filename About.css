@@ -16,3 +16,11 @@ body {
   background: #087fff;
   background: linear-gradient(to left, #d6d6d6, #51b9ff);
 }
+.container-fluild {
+    align-content: center;
+}
+.img {
+    padding: 100%;
+    margin: auto;
+
+}
