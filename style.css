@@ -17,7 +17,7 @@
     margin: 25px;
   }
   .backgroundimg {
-    background-image: url(restaurant.png);
+    background-image: url(img/restaurant.png);
     opacity: 90%;
     padding: 25px;
     margin-bottom: 25px;
@@ -76,6 +76,7 @@
     .col-md-8 {
         margin: auto; 
     }
+
    .img {
        
        padding: 70px;
