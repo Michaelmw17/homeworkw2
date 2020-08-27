@@ -25,8 +25,8 @@
   }
   /* Other Classes for Page Styling */
   body {
-    background: #087fff;
-    background: linear-gradient(to left, #d6d6d6, #51b9ff);
+   
+    background: linear-gradient(to left, #d6d6d6, #8A95A5);
   }
   .img-thumbnail {
     display: block;
