@@ -22,7 +22,6 @@ As a type of user, I want to perform portoflio task so that I can achieve some g
 #### Initial interface
 
 <hr>
-
 <img src="./img/w2.png">
 
 #### Final Interface
