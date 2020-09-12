@@ -43,7 +43,7 @@ Create new file on GitHUB=> name it License.md => select license from the right 
 
 - **FIRST LAST** -
 
-michaaelmw17@outlook.com
+michaelmw17@outlook.com
 
 ## Acknowledgments
 
