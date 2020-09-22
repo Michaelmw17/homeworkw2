@@ -23,8 +23,8 @@ As a type of user, I want to perform portoflio task so that I can achieve some g
 
 <hr>
 <img src="./img/aboutpage.png.png">
-<img src="./img/portfoilopage.png.png">
-<img src="./img/contactpage.png.png">
+<!-- <img src="./img/portfoilopage.png.png">
+<img src="./img/contactpage.png.png"> -->
 
 #### Final Interface
 
