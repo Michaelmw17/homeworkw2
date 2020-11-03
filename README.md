@@ -1,17 +1,16 @@
-# TITLE
+# Responsive Portfolio
 
-Responsive Portfolio
 
 ## Contents
 
 <p>
-The app is composed of 4 pages, index.html, protfolio.html, contact.html and style.css. It also has images in the img folder
+The app is composed of 4 pages, index.html, portfolio.html, contact.html and style.css. It also has images in the img folder.
 </p>
 
 ## User Story
 
 <p>
-As a type of user, I want to perform portoflio task so that I can achieve some goals.
+As a type of user, I want to perform portfolio task so that I can achieve some goals.
 </p>
 
 ## Built With
@@ -39,7 +38,7 @@ Create new file on GitHUB=> name it License.md => select license from the right 
 
 ### Link to the App
 
-<a href=".">https://michaelmw17.github.io/homeworkw2/</a><hr>
+<a href=".">https://michaelmw17.github.io/homeworkw2/</a>
 
 <hr>
 
@@ -51,4 +50,7 @@ michaelmw17@outlook.com
 
 ## Acknowledgments
 
--
+- textContent vs innerHTML/innerText
+
+  - https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+  - https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#Differences_from_innerText

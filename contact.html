@@ -18,7 +18,7 @@
 
   <body>
     <!-- Start Nav -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-light">
       <span class="navbar-brand mb-1 h1">Michael Watt</span>
       <button
         class="navbar-toggler"
@@ -46,20 +46,26 @@
       </div>
     </nav>
     <!-- End Nav -->
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Contact me</h1>
+        <hr />
+        <p class="lead">Any questions?</p>
+      </div>
+    </div>
     <div class="container">
-      <div class="backgroundimg">
+      <div class="backgroundImg">
         <section class="mb-4">
           <!--Section heading-->
-          <h2 id="h2" class="h1-responsive font-weight-bold text-center my-4">
-            Contact me
-          </h2>
           <!--Section description-->
-          <p class="text-center w-responsive mx-auto mb-5">Any questions?</p>
+          <!-- <p class="text-center w-responsive mx-auto mb-5">Any questions?</p> -->
 
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
             <div class="col-md-9 mb-md-0 mb-5">
+              <h6>Please enter your details</h6>
+
               <form
                 id="contact-form"
                 name="contact-form"
@@ -140,7 +146,7 @@
               </form>
 
               <!--Grid row-->
-              <div class="text-center text-md-left">
+              <div class="text-center text-md-center">
                 <a class="btn btn-primary" href="contact.html">Send</a>
               </div>
             </div>
@@ -155,50 +161,28 @@
                   <i class="phone mt-4 fa-2x"></i>
                   <p>+ 614 496 200 82</p>
                 </li>
-                <li>
-                  <a href="contact.html"
-                    ><i class="fas fa-envelope-square"></i
-                  ></a>
-                </li>
-                <li>
-                  <a href="https://www.facebook.com"
-                    ><i class="fab fa-facebook"></i
-                  ></a>
-                </li>
-
-                <li>
-                  <a href="https://github.com/Michaelmw17"
-                    ><i class="fab fa-github"></i
-                  ></a>
-                </li>
               </ul>
             </div>
           </div>
         </section>
       </div>
-      <footer id="sticky-footer" class="py-4 bg-light text-dark-50">
-        <div class="container text-center">
-          <small>Copyright &copy; Michael's Website</small>
+    </div>
+    <footer class="footer py-3 bg-secondary text-white mt-auto container-fluid">
+      <div class="row text-center">
+        <div class="col-md">
           <ul class="list-unstyled mb-0">
             <li>
+              <a class="github-link" href="https://github.com/Michaelmw17"
+              ><small>Copyright &copy; Michael's Website</small><br /><i class="fab fa-github"></i
+            ></a>
+            
               <a href="contact.html"><i class="fas fa-envelope-square"></i></a>
             </li>
-            <li>
-              <a href="https://www.facebook.com"
-                ><i class="fab fa-facebook"></i
-              ></a>
-            </li>
-
-            <li>
-              <a href="https://github.com/Michaelmw17"
-                ><i class="fab fa-github"></i
-              ></a>
-            </li>
           </ul>
+          
         </div>
-      </footer>
-    </div>
-
+      </div>
+    </footer>
     <!-- jQuery CDN -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
