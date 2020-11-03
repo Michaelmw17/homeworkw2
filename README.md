@@ -34,19 +34,21 @@ As a type of user, I want to perform portfolio task so that I can achieve some g
 
 ### Licence
 
-Create new file on GitHUB=> name it License.md => select license from the right button
+No license due to nature of project
 
 ### Link to the App
 
-<a href=".">https://michaelmw17.github.io/homeworkw2/</a>
-
-<hr>
+<a href="https://github.com/Michaelmw17/HomeworkW1"></a>
 
 ## Authors
 
-- **FIRST LAST** -
+- **Michael Watt** 
 
-michaelmw17@outlook.com
+Contact information
+
+GitHub: [@Michaelmw17](https://github.com/Michaelmw17/w8homework)
+
+Email: Michaelmw17@outlook.com
 
 ## Acknowledgments
 
